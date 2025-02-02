@@ -11,9 +11,9 @@
 // ===========================
 // Eduroam Credentials
 // ===========================
-#define EAP_ANONYMOUS_IDENTITY "j239cai@uwaterloo.ca"
-#define EAP_IDENTITY "j239cai@uwaterloo.ca"
-#define EAP_PASSWORD "342198264jJ."
+#define EAP_ANONYMOUS_IDENTITY ""
+#define EAP_IDENTITY ""
+#define EAP_PASSWORD ""
 #define SSID "eduroam"
 
 void startCameraServer();
