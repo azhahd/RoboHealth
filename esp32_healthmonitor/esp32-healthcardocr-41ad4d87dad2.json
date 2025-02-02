@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "esp32-healthcardocr",
+  "private_key_id": "41ad4d87dad28707f32a16bb8a845bcc5706f3aa",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC/hKW8GLdIH/Mz\nBSPrEEPyXrfXbfkqirlfw2Vras8Cwbl0nOeFb/xQCJwgKi3CwAfuPZNxaufZ6QPN\nY9LwzDI9bF6pmQkc3Ewc1Z+Yx2hKV4JYNahQc0zaH0FZx+yq1mxPWugwMLb8mkf8\nOFzKY0q9nqujqpXewwDKiRZ3zNAU9KLwKHYr35R5sSMuJwzLFHrNUHpmlpVnCKhv\n7XKG/Z7TnEEFhHarMiS+ZvZ/mIqa0GPkZ5sjGGqkLJPYgv5s/B+hU9agrJ3TV0HG\nG3Uz0eT3j0o0WaM8437+0YL/f8K9Lp2H2m9TII3WGxvdY7HYiUrc51u7h4UkKzv5\nNTKzDbZrAgMBAAECggEAEV9eIf4DS31ryVIrNsHuypgGniSW0wyVZyyUJmvLDml1\n7LA6R349NCIBI4vKmIgPJXBxelAjwD5k/rxnizntSWlrUYAVIF3oC5Th2XEmh9kr\nSjFygfsLhXJgsl0HyLFoTsR6G7uiMFoVszkw9ZePKpHaPkpANl5C/pxJLPcnsuwb\nrQeOzdtZicuolaFlSBKJmrMYjnJeNdW4PQpbJKnxsi9pS/hZ3+/xDcfWvuOhoF8L\nV3yJ/QoziisHMxVgg5f01aP11POL53U1GiUkFeqz4lkNSdfol9i13EzM03UfC5ru\nmJmUmQ3BT6wkM4ZdFqtmklipupwCG/JwDbNqLBSoxQKBgQDzaUgpOzCQ48jEq4vg\nT+kti/jQmHkWvsFAQ5GupZW0AWjgpusvvI9qrl+e4waQP6P4yBcXZ3tr5jXsOlcy\nKwm64HaypfUoeW3jW+NRPtJeMo3L2rgzrMhkdRDGJWUEz0OOxnK5hLkT9Ur+mHNN\nbEo4/BInIfsQY5TTp/0AzwdObwKBgQDJbE+TBWPf0NoXh9MjLH6QGYeUuWJCS96e\nO/5IXnENdZqy4fDD87e/uRNXWb/hy8ZdfouiKQ5NwNEq0yYuYlpMrzPgguDvFPL/\ndgeOT96OZYnueazQcVpwmSe7GMqhiMAxyu+V8PuNe2GKzI4CyLz1zEgoaJVcUPIa\nI2jRapTVxQKBgDoyQMuC2FC79UN4VGAUGwcFwT52RfU3NFMeFJWyB0HbWGzl27M1\nHQD/oeMGGoqgfJ69kC/LUQnyJ5BMPo7DFXd1tUtvPFcp+SjzzjydjYRyB87mg0Xv\nmJXUG2eUhzuIJnnbXpCWd/2alwyZ/G9VZcWMFvb+O92mQW39axMnbHLHAoGAbc6u\nUuhNWmbxfoJ9iF9pYAWK9HlcJ+hUpM7wAWP7HetPOtYR+8GSGuM6uBQll2MP8Uhb\ntzvKoHjNjxstZXwY3lVlYq/3EF/LWZlu5RaFrfuNBoUuwTQKqffUwRry3L1AieSo\nWIXXnXn140VA5iOpYBbN/7mEM5+tXLKRIhmIqkECgYAsDLC4tciuofvgZ3OmXkZd\nM3EpyP5WlyQH7IaLNydNp/k7zXVFRWHe1wUU5Utttb1C6Oyin5Sr1eTVlwwuY7BO\nImsD5TWDq/LPaUhmNANpLWeZ64SUXqTh9zNLT64knLsljjjmz5Mk8bzcGS2EplDY\n6QfVxYDLZpgCF+oFqXufLg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "vision-ocr-service@esp32-healthcardocr.iam.gserviceaccount.com",
+  "client_id": "114356368960574174026",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/vision-ocr-service%40esp32-healthcardocr.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
